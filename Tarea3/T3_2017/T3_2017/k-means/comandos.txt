@@ -1,0 +1,1 @@
+yakmo -k 8 /home/david/Escritorio/Tarea4/modelo_con_etiquetas.dat - - -O 1 | head
